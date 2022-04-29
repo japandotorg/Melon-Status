@@ -1,29 +1,37 @@
 # Change these first
 owner: japandotorg # Your GitHub organization or username, where this repository lives
 repo: melon-status # The name of this repository
+user-agent: inthedark.org
 
 sites:
   - name: Website
-    url: https://botmelon.vercel.app
+    url: https://melonbot.io
   - name: Documentation Website
-    url: https://melondocs.netlify.app
+    url: https://guide.melonbot.io
   - name: Japandotorg
     url: https://japandotorg.me
-    assignees:
-      - japandotorg
-
+notifications:
+  - type: slack
+    channel: C01CHHXFQ3E
+assignees:
+  - japandotorg
+  
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
-  baseUrl: /melon-status
-  # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Melon Status
-  introTitle: "Keep track of Melon's services across the board here."
-  # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  cname: status.melonbot.io
+  favicon: https://raw.githubusercontent.com/japandotorg/melon-docs/dev/static/img/favicon.ico
+  faviconSvg: https://github.com/japandotorg/melon-docs/blob/dev/static/img/logo.svg
+  logoUrl: https://github.com/japandotorg/melon-docs/blob/dev/static/img/logo.svg
+  logoHref: https://melonbot.io
+  name: MelonStatus
+  introTitle: Melon Status
+  introMessage: Keep track of Melon's services across the board here.
   navbar:
     - title: Status
       href: /
+    - title: Docs
+      href: https://guide.melonbot.io
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
