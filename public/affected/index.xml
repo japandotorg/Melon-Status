@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <link rel="alternate" type="text/html" href="https://example.com"/>
+    <title>Affected on Melon Status</title>
+    <link>https://example.com/affected/</link>
+    <description>Incident history</description>
+    <generator>github.com/cstate</generator>
+    <language>en</language>
+    
+    
+    
+      <atom:link href="https://example.com/affected/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

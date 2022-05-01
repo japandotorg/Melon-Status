@@ -1,0 +1,56 @@
+{
+  "is": "index",
+  "cStateVersion": "5.3",
+  "apiVersion": "2.0",
+  "title": "Melon Status",
+  "languageCodeHTML": "en",
+  "languageCode": "en",
+  "baseURL": "https://example.com", 
+  "description": "We continuously monitor the status of our services and if there are any interruptions, a note will be posted here.",
+  "summaryStatus": "ok", 
+  "categories": [
+      {
+        "name": "MELON",
+        "description": "The main servers are located here.",
+        "hideTitle": false,
+        "closedByDefault": false
+      }
+    
+  ],
+  "systems": [
+    
+      {
+        "name": "Website",
+        "description": "The main website for Melon.",
+        "category": "MELON", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "Documentation",
+        "description": "The documentation website for Melon.",
+        "category": "MELON", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      }
+  ],
+  
+  
+  "buildDate": "2022-05-01",
+  "buildTime": "11:16",
+  "buildTimezone": "IST",
+  "colorBrand": "#0a0c0f",
+  "colorOk": "#008000",
+  "colorDisrupted": "#cc4400",
+  "colorDown": "#e60000",
+  "colorNotice": "#24478f",
+  "alwaysKeepBrandColor": "true",
+  "logo": "https://example.com/logo.svg",
+  "googleAnalytics": "UA-00000000-1"
+}
