@@ -22,7 +22,7 @@
     "url": "https://guide.melonbot.io",
     "icon": "https://favicons.githubusercontent.com/guide.melonbot.io",
     "slug": "documentation-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 154,
     "timeMonth": 232,
     "timeYear": 232,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-07": 0
+    }
   },
   {
     "name": "Japandotorg",
