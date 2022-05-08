@@ -6,7 +6,7 @@ languageCode: en
 
 defaultContentLanguage: en
 
-baseURL: https://example.com
+baseURL: https://status.melonbot.io
 
 enableGitInfo: true
 
