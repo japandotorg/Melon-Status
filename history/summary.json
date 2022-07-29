@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 206,
-    "timeDay": 156,
-    "timeWeek": 176,
-    "timeMonth": 247,
-    "timeYear": 206,
+    "time": 210,
+    "timeDay": 711,
+    "timeWeek": 223,
+    "timeMonth": 253,
+    "timeYear": 210,
     "dailyMinutesDown": {
       "2022-06-19": 16
     }
@@ -25,18 +25,17 @@
     "icon": "https://favicons.githubusercontent.com/guide.melonbot.io",
     "slug": "documentation-website",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 358,
-    "timeDay": 332,
-    "timeWeek": 463,
-    "timeMonth": 402,
-    "timeYear": 358,
+    "uptime": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.99%",
+    "time": 365,
+    "timeDay": 742,
+    "timeWeek": 540,
+    "timeMonth": 431,
+    "timeYear": 365,
     "dailyMinutesDown": {
-      "2022-07-28": 10,
       "2022-05-07": 21
     }
   },
@@ -52,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 164,
-    "timeDay": 51,
-    "timeWeek": 96,
-    "timeMonth": 109,
+    "timeDay": 219,
+    "timeWeek": 97,
+    "timeMonth": 114,
     "timeYear": 164,
     "dailyMinutesDown": {}
   }
