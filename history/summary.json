@@ -44,18 +44,19 @@
     "url": "https://japandotorg.me",
     "icon": "https://favicons.githubusercontent.com/japandotorg.me",
     "slug": "japandotorg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
-    "time": 191,
-    "timeDay": 1353,
-    "timeWeek": 445,
-    "timeMonth": 269,
-    "timeYear": 191,
+    "time": 212,
+    "timeDay": 2387,
+    "timeWeek": 817,
+    "timeMonth": 361,
+    "timeYear": 212,
     "dailyMinutesDown": {
+      "2022-09-07": 0,
       "2022-08-30": 28
     }
   }
