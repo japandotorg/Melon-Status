@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 227,
-    "timeDay": 177,
-    "timeWeek": 293,
-    "timeMonth": 260,
-    "timeYear": 227,
+    "time": 229,
+    "timeDay": 437,
+    "timeWeek": 261,
+    "timeMonth": 268,
+    "timeYear": 229,
     "dailyMinutesDown": {
       "2022-06-19": 16
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 392,
-    "timeDay": 230,
-    "timeWeek": 432,
-    "timeMonth": 509,
-    "timeYear": 392,
+    "time": 399,
+    "timeDay": 1467,
+    "timeWeek": 586,
+    "timeMonth": 546,
+    "timeYear": 399,
     "dailyMinutesDown": {
       "2022-05-07": 21
     }
@@ -46,15 +46,15 @@
     "slug": "japandotorg",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "98.10%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.97%",
-    "time": 237,
-    "timeDay": 2612,
-    "timeWeek": 1192,
-    "timeMonth": 470,
-    "timeYear": 237,
+    "time": 243,
+    "timeDay": 1283,
+    "timeWeek": 1282,
+    "timeMonth": 484,
+    "timeYear": 243,
     "dailyMinutesDown": {
       "2022-09-07": 27,
       "2022-08-30": 28
