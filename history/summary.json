@@ -22,9 +22,9 @@
     "url": "https://guide.melonbot.io",
     "icon": "https://icons.duckduckgo.com/ip3/guide.melonbot.io.ico",
     "slug": "documentation-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -34,6 +34,7 @@
     "timeMonth": 304,
     "timeYear": 346,
     "dailyMinutesDown": {
+      "2023-07-25": 0,
       "2022-12-15": 21
     }
   },
@@ -43,7 +44,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/japandotorg.me.ico",
     "slug": "japandotorg",
     "status": "down",
-    "uptime": "94.20%",
+    "uptime": "94.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
