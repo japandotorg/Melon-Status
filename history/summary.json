@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 271,
-    "timeDay": 265,
-    "timeWeek": 323,
-    "timeMonth": 289,
+    "timeDay": 297,
+    "timeWeek": 319,
+    "timeMonth": 297,
     "timeYear": 266,
     "dailyMinutesDown": {}
   },
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 355,
-    "timeDay": 205,
-    "timeWeek": 195,
-    "timeMonth": 463,
-    "timeYear": 336,
+    "timeDay": 155,
+    "timeWeek": 203,
+    "timeMonth": 462,
+    "timeYear": 335,
     "dailyMinutesDown": {
       "2023-07-25": 25,
       "2022-12-15": 21
@@ -44,12 +44,12 @@
     "icon": "https://icons.duckduckgo.com/ip3/japandotorg.me.ico",
     "slug": "japandotorg",
     "status": "down",
-    "uptime": "95.00%",
+    "uptime": "95.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.34%",
-    "time": 352,
+    "uptimeYear": "97.61%",
+    "time": 355,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
@@ -62,8 +62,7 @@
       "2022-10-13": 1440,
       "2022-10-12": 1440,
       "2022-10-11": 1440,
-      "2022-10-10": 1440,
-      "2022-10-09": 1440
+      "2022-10-10": 1440
     }
   }
 ]
